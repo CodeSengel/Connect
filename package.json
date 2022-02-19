@@ -2,7 +2,7 @@
   "name": "gantt_app",
   "version": "0.0.1",
   "description": "gantt app",
-  "productName": "OneGantt",
+  "productName": "Connect",
   "author": "code.sengel@gmail.com",
   "private": true,
   "scripts": {
