@@ -4,7 +4,7 @@
     <q-header elevated >
       <q-toolbar> 
         <div style="width:100%;">
-         <div class=" text-h5 q-my-none" style="position:relative;width:60%" >OG</div> 
+         <div class=" text-h5 q-my-none" style="position:relative;width:60%" > Connect </div> 
          
         </div>
  
