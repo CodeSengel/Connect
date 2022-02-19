@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <div v-if="user">
-      <p> Hello {{user.user_metadata.name}}</p>
+      <p> Hello <strong> {{user.user_metadata.name}} </strong> this is your profile </p>
     </div>
 
   </q-page>

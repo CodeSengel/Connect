@@ -1,8 +1,8 @@
 <template>
   <q-page>
     <div v-if="user">
-      <p> Voici your dashboard.
-        Votre role est :  {{user.user_metadata.role}}</p>
+      <p> This is your dashboard.<br>
+        Your role is :  {{user.user_metadata.role}} </p>
     </div>
   </q-page>
   

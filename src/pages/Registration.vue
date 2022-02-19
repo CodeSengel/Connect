@@ -2,7 +2,7 @@
   <div class="row justify-center full-height full-width text-center">
     <div class="column">
       <div class="row">
-        <h5 class="text-h5 text-white q-my-md text-center">OneGantt</h5>
+        <h5 class="text-h5 text-white q-my-md text-center"> Connect </h5>
       </div>
       <div class="row">
         <q-card bordered class="q-pa-lg shadow-1">

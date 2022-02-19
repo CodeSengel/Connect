@@ -23,7 +23,7 @@
         <div class="q-pr-xl"><q-badge color="purple" text-color="white" class="q-ma-md">
           {{todaysDate}} 
         </q-badge></div> 
-        <div>OneGantt v1.0</div>
+        <div> Connect v1.0</div>
       </q-toolbar>
     </q-header>
 
