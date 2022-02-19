@@ -1,5 +1,5 @@
 #https://www.youtube.com/watch?v=JCM_xoWbF70
 [[redirects]]
   from = "/*"
-  to = "/src/pages/Login.vue"
+  to = "/login"
   status = 200
