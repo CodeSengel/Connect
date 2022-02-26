@@ -84,8 +84,8 @@ import { useQuasar } from 'quasar'
 const SourceAvatar2 = "https://cdn.quasar.dev/img/avatar.png"
 const linkout = [
 {
-    title: "Logout",
-    caption: "Logout your account",
+    title: "Se déconnecter",
+    caption: "Déconnexion",
     icon: "fas fa-sign-out-alt",
     
   },
@@ -95,14 +95,14 @@ const linkout = [
 const linksList = [
 {
     title: "Profile",
-    caption: "See your profile",
+    caption: "Aller sur ton profile",
     icon: "far fa-user",
     
     to: "/me",
   },
   {
-    title: "Dashboard",
-    caption: "See all your schedules",
+    title: "Tableau de bord",
+    caption: "Aller sur ton tableau de bord",
     icon: "far fa-calendar-alt",
     to: "/dashboard",
   },
